@@ -1,0 +1,20 @@
+$headings-font-family: 'Nunito', sans-serif;
+$headings-font-weight: 800;
+$font-family-base: 'Poppins', sans-serif;
+
+
+
+$icon-background: rgba(127, 24, 127, 0.2);
+
+$color-1: rgb(127, 28, 135);
+.color-1{
+    background-color: $color-1;
+}
+$color-1-opacity-8: rgba(127, 28, 135, 0.8);
+.color-1-opacity-8{
+    background-color: $color-1-opacity-8;
+}
+$color-sale: rgba(167, 4 ,4, 0.8);
+.bg-sale{
+    background-color: $color-sale;
+}

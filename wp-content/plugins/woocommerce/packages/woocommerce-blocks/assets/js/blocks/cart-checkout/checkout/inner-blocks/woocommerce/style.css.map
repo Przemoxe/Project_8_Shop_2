@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,yBAAyB,CAAC;EACzB,MAAM,EAAE,OAAO;EACf,UAAU,EAAE,OAAO;CAUnB;;AAZD,AAIC,yBAJwB,CAIxB,QAAQ,CAAC;EACR,GAAG,EAAE,IAAI;EACT,QAAQ,EAAE,QAAQ;CAClB;;AAPF,AASC,yBATwB,AASvB,mCAAmC,CAAC;EACpC,OAAO,EAAE,GAAG;CACZ",
+    "sources": [
+        "../checkout-terms-block/style.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

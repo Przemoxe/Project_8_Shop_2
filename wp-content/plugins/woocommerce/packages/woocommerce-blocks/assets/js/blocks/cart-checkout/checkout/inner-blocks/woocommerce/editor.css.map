@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,+CAA+C,CAAC;EAC/C,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,GAAG;CAMnB;;AAVD,AAMC,+CAN8C,CAM9C,4BAA4B,CAAC;EAC5B,UAAU,EAAE,CAAC;EACb,aAAa,EAAE,CAAC;CAChB",
+    "sources": [
+        "../checkout-order-note-block/editor.scss"
+    ],
+    "names": [],
+    "file": "editor.css"
+}
